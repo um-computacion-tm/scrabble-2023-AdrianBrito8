@@ -1,0 +1,10 @@
+method-lines:
+  config:
+    treshold: 25
+argument-count:
+  config:
+    treshold: 3
+similar-code:
+  config:
+  treshold: 3
+  
